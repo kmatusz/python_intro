@@ -1,0 +1,7 @@
+Requirements:
+- Written exam (paper)
+- Final project - python for database programming
+
+
+Temat maili do prowadz¹cego:
+PythonIntro2019Z Matuszelañski: temat
